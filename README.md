@@ -18,21 +18,11 @@ Here are the technologies used in this project.
 ## Services Used
  
 * Github
-* ...
  
- 
-## Ruby Gems
-...
- 
-## Getting started
- 
-* To install gems:
->    $ bundle install
-* To create the bank and do as migrations:
->    $ rake db:create db:migrate db:seed
-* To run the project:
->    $ rails s
- 
+## Node Modules
+
+* 
+  
 ## How to use
  
 ## 1 - Register in the app
@@ -51,14 +41,19 @@ Here are the technologies used in this project.
 
 ## Features
  
- - Here will be the features.
+ - User creation.
+ - User login.
+ - Creation of thoughts by each user.
+ - Access level, by authentication.
+ - Display of thoughts.
+ - Personalized thought search.
+ - Sort filter
  
 ## Links
- 
-  - Link of deployed application: (if has been deployed)
-  - Repository: https://link_of_repository
+
+  - Repository: https://github.com/joaomaniaudet/Toughts
     - In case of sensitive bugs like security vulnerabilities, please contact
-      YOUR EMAIL directly instead of using issue tracker. We value your effort
+      jmmegale@gmail.com directly instead of using issue tracker. We value your effort
       to improve the security and privacy of this project!
  
  
