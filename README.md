@@ -4,16 +4,10 @@
 ## Toughts
  
 Project to store user thoughts and display in a user-friendly interface. Making use of MVC architecture.
- 
- 
+  
 ## Technology 
- 
-Here are the technologies used in this project.
- 
-* Ruby version  x.x.x
-* Rails version x.x.x
-* ...
- 
+
+ * Node v16.14.1
  
 ## Services Used
  
@@ -21,7 +15,18 @@ Here are the technologies used in this project.
  
 ## Node Modules
 
-* 
+* bcryptjs: 2.4.3
+* connect-flash: 0.1.1
+* cookie-parser: 1.4.6
+* cookie-session: 2.0.0
+* express: 4.18.1
+* express-flash: 0.0.2
+* express-handlebars: 6.0.5
+* express-session: 1.17.2
+* mysql2: 2.3.3
+* nodemon: 2.0.16
+* sequelize: 6.19.0
+* session-file-store: 1.5.0
   
 ## How to use
  
