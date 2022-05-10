@@ -35,7 +35,8 @@ Here are the technologies used in this project.
  
 ## How to use
  
-Here will be the images and descriptions. Principal content.
+## Register in the app
+![register screen](https://raw.githubusercontent.com/joaomaniaudet/Toughts/main/public/readme_images/img_3.JPG)
  
  
 ## Features
