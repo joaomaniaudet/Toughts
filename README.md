@@ -39,8 +39,13 @@ Here are the technologies used in this project.
 ![register screen](https://raw.githubusercontent.com/joaomaniaudet/Toughts/main/public/readme_images/img_4.JPG)
  
 ## 2 - Login into the app
-![register screen](https://raw.githubusercontent.com/joaomaniaudet/Toughts/main/public/readme_images/img_3.JPG)
+![Login screen](https://raw.githubusercontent.com/joaomaniaudet/Toughts/main/public/readme_images/img_3.JPG)
  
+ ## 3 - Create your tought, through the panel access tab. 
+ ![dashboard screen](https://raw.githubusercontent.com/joaomaniaudet/Toughts/main/public/readme_images/img_5.JPG)
+
+
+
   
 
 ## Features
