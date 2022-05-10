@@ -1,11 +1,9 @@
-# Toughts
-Project to store user thoughts and display in a user-friendly interface. Making use of MVC architecture.
 
 ![Logo of the project](https://raw.githubusercontent.com/joaomaniaudet/Toughts/main/public/readme_images/logo.png)
  
-## Name_of_the_project
+## Toughts
  
-... Description
+Project to store user thoughts and display in a user-friendly interface. Making use of MVC architecture.
  
  
 ## Technology 
