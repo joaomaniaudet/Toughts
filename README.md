@@ -35,14 +35,17 @@ Here are the technologies used in this project.
  
 ## How to use
  
-## Register in the app
+## 1 - Register in the app
+![register screen](https://raw.githubusercontent.com/joaomaniaudet/Toughts/main/public/readme_images/img_4.JPG)
+ 
+## 2 - Login into the app
 ![register screen](https://raw.githubusercontent.com/joaomaniaudet/Toughts/main/public/readme_images/img_3.JPG)
  
- 
+  
+
 ## Features
  
-  - Here will be the features.
- 
+ - Here will be the features.
  
 ## Links
  
