@@ -44,9 +44,10 @@ Here are the technologies used in this project.
  ## 3 - Create your tought, through the panel access tab. 
  ![dashboard screen](https://raw.githubusercontent.com/joaomaniaudet/Toughts/main/public/readme_images/img_5.JPG)
 
+ ## 4 - View all toughts, through the tought access tab. 
+ ![tought screen]( https://raw.githubusercontent.com/joaomaniaudet/Toughts/main/public/readme_images/img_1.JPG)
 
-
-  
+ 
 
 ## Features
  
