@@ -60,6 +60,8 @@ Here will be the images and descriptions. Principal content.
 ## Authors
  
 João Maurício Maniaudet Megale: @joaomaniaudet (https://github.com/joaomaniaudet)
+
+* **YOUR NAME**: @YOUR_GITHUB_NICKNAME (https://github.com/YOUR_GITHUB_NICKNAME)
  
  
 Please follow github and join us!
